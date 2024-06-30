@@ -1,0 +1,6 @@
+Para correr el proyecto se debe ejecutar los siguientes comandos:
+
+  1. npm install
+  2. npm start
+
+Por defecto el proyecto corre sobre el puerto 3000 pero se puede modificar a gusto
