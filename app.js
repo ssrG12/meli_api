@@ -2,7 +2,7 @@ import express from 'express'
 import searchByQuery from './routes/searchByQuery.js'
 import detailProduct from './routes/detailProduct.js'
 
-const port = 3000
+const port = 3001
 const app = express()
 
 app.use('/api/items', searchByQuery)
